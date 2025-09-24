@@ -1,0 +1,7 @@
+# Face data / models / encodings
+*.pkl
+
+# Image files
+*.jpg
+*.jpeg
+*.png
